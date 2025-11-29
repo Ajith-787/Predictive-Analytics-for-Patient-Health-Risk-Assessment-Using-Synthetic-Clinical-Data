@@ -1,4 +1,5 @@
 # Predictive-Analytics-for-Patient-Health-Risk-Assessment-Using-Synthetic-Clinical-Data
+Data set link : https://www.kaggle.com/datasets/jockeroika/eye-health?resource=download
 # Aim of the Study
 
 The aim of this study is to analyze a synthetic patient-health dataset to identify key clinical patterns, explore the relationships among various health indicators, and assess the risk factors associated with eye diseases—specifically diabetic retinopathy. By applying data analytics and visualization techniques, the study seeks to uncover meaningful insights that can support early detection, improve risk assessment, and contribute toward data-driven decision-making in healthcare. Ultimately, the study demonstrates how structured patient data can be leveraged to model and understand health outcomes in a controlled, synthetic environment.
